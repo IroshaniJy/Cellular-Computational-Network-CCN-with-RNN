@@ -2,8 +2,8 @@
 
 #@author: Iroshani
 
-# Implementation of a simple MLP network with one hidden layer.
-# Requires: numpy, sklearn>=0.18.1, tensorflow>=1.0
+# Implementation of a CCN with four RNNs. Learning is performed synchronously.
+
 
 import tensorflow as tf
 import numpy as np
